@@ -1,4 +1,4 @@
-# Spotify_Clone_App
+# Spotify_Clone_Web_Design
 
 Design a Spotify clone Web design using HTML and CSS
 
@@ -17,3 +17,19 @@ Improve my skills in front-end development like **HTML & CSS**
 - responsive contact form section using css grid.
 - responsive blogs / news card section using css grid.
 - responsive footer section.
+
+#### Sections(Layout):
+
+- Play list(left - Vertical)
+- Playing section(Right - Horizontal)
+- Music Player section(bottom - Horizontal)
+- Spotify Layout Design<br>
+  <img src="Spotify_Layout_Design.png" style="width:800px height:400px"  />
+
+1. Make Full container
+2. Divide two parts the full container
+3. Divide two parts the top container
+
+Refferences :
+
+<A href= "https://youtu.be/weWqXzScjQU?si=W1pFRGPK3kezUsiS"> Adomic Arts - Spotify clone </a>
