@@ -23,7 +23,9 @@ Improve my skills in front-end development like **HTML & CSS**
 - Play list(left - Vertical)
 - Playing section(Right - Horizontal)
 - Music Player section(bottom - Horizontal)
-- Spotify Layout Design<br>
+- Spotify Layout Design
+<br/><br/>
+
   <img src="Spotify_Layout_Design.png" style="width:800px height:400px"  />
 
 1. Make Full container
